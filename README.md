@@ -2,11 +2,11 @@
 
 ## O que é react? 🎉
 
-React é uma biblioteca para criação de interface de usuários.
+React é uma biblioteca para criação de interface de usuários.😃😃
 
 É uma ferramenta que nasceu no Facebook para sincronizar as diferentes informações/atualizações que aconteciam na tela! 
 
-Além disso, se tornou bastante popular devido ao fato de permitir o reuso de componentes, fácil manutenção no código e alta performance.😃
+Além disso, se tornou bastante popular devido ao fato de permitir o reuso de componentes, fácil manutenção no código e alta performance. 
 
 
 ### Fontes de consulta:  

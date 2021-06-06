@@ -1,4 +1,4 @@
-# Repositório criado para estudos React 📚
+# Repositório criado para estudos 📚
 
 ## O que é react? 🎉
 

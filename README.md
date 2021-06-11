@@ -19,3 +19,6 @@ Além disso, se tornou bastante popular devido ao fato de permitir o reuso de co
 ➡️ [w3schools](https://www.w3schools.com/react/)
 
 ➡️ [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+
+
+➡️ [Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)

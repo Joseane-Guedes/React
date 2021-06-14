@@ -1,6 +1,7 @@
 Minhas notas de aula React I 
 <br>
-05/06/2021
+Data da aula: 05/06/2021
+Professora: Simara
 ===============
 
 ## - Componentes

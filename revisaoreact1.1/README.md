@@ -1,11 +1,11 @@
-Minhas notas de aula React I - Parte II
+Minhas notas de aula React I - Parte II 
 <br>
 Data da aula: 05/06/2021
-Professora: Simara 
+Professora: Simara :grinning:
 ===============
 
-### Dica do exercício de componentes da pasta comentario.
-
+### Dica do exercício de componentes da pasta comentario. 
+:heart_eyes:
 
 1 - Props
 

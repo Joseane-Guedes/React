@@ -29,4 +29,3 @@ Além disso, se tornou bastante popular devido ao fato de permitir o reuso de co
 
 ➡️ [SoloLearn](https://www.sololearn.com/profile/19573948)
 
-➡️ [egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)

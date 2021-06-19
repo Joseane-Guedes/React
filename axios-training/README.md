@@ -6,7 +6,7 @@ Devo instalar o axios toda vez que iniciar um novo projeto utilizando o recurso 
 
 Se utilizar yarn, o  comando no terminal é yarn add axios
 
-- Acessar os comandos Yarn: [ComandoYarn]("https://yarnpkg.com/package/axios")
+- Acessar os comandos Yarn: [ComandoYarn](https://yarnpkg.com/package/axios)
 
 - Acessar artigo sobre Axios:
-[Axios ou fetch]("https://medium.com/trainingcenter/axios-ou-fetch-765e5db9dd59")
+[Axios ou fetch](https://medium.com/trainingcenter/axios-ou-fetch-765e5db9dd59)

@@ -27,6 +27,7 @@ const MapaApi = () => {
     },[busca,repos])
 
     console.log(repos)
+    
     return(
         <>  
            <input onChange={e => {setBusca(e.target.value)}} placeholder="Digite um repo" />

@@ -1,0 +1,24 @@
+.menu {
+    margin: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu li {
+    margin-left: 4rem;
+    list-style: none;
+}
+
+.link {
+    color: wheat;
+    text-decoration: none;
+}
+
+@media (max-width:768px){
+    .menu {
+        margin: 2rem;
+        display: flex;
+        justify-content: flex-start;
+    }
+}
